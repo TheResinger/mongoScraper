@@ -26,12 +26,12 @@ Git clone the repository to your local machine:
 
 HTTPS:
 ```
-$ git clone https://github.com/TheResinger/SkyBeat.git
+$ git clone https://github.com/TheResinger/mongoScraper.git
 ```
 
 SSH:
 ```
-$ git clone git@github.com:TheResinger/SkyBeat.git
+$ git clone git@github.com:TheResinger/mongoScraper.git
 ```
 
 Next, cd into the repository and run the command
@@ -57,5 +57,5 @@ npm install
 
 ### Authors
 
-Benjamin Morrow
+See the list of [contributors](https://github.com/TheResinger/mongoScraper/graphs/contributors) who participated in this project along with individual commit history. 
 
