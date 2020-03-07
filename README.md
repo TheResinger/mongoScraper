@@ -20,29 +20,25 @@ Once installed, make sure the MongoDB daemon is running with the following comma
 $ mongod
 ````
 
-### Installing
 
+### Installing
 Git clone the repository to your local machine:
 
-HTTPS: 
+HTTPS:
 ```
-$ git clone https://github.com/TheResinger/mongoScraper.git
+$ git clone https://github.com/TheResinger/SkyBeat.git
 ```
 
 SSH:
 ```
-$ git clone git@github.com:TheResinger/mongoScraper.git
+$ git clone git@github.com:TheResinger/SkyBeat.git
 ```
-
-To connect to your local Mongo database, you will need to add an .env file in the root of your cloned repository containing the following code:
-````
-MONGO_DB="mongodb://localhost/<you decide the name here>"
-````
 
 Next, cd into the repository and run the command
 ```
 npm install
 ```
+
 
 ### Built With
 
